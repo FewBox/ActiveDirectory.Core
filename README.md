@@ -1,6 +1,6 @@
 # ActiveDirectory.Core
 .Net Core Active Directory Lib.
-> About 7 years history - start from 2010 (https://landpyactivedirectory.codeplex.com/), which will help you to manage Active Directory with out complex filter syntax! 
+> Start from 2010 (https://landpyactivedirectory.codeplex.com/), which will help you to manage Active Directory with out complex filter syntax! 
 > This library has been trusted by **Lenovo**, **Sony**，**Tempursealy**, **BoostSolutions** and other corporations.
 
 [Getting Start](https://github.com/fewbox/ActiveDirectory.Core/wiki/Getting-Start)
