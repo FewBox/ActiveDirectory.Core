@@ -6,12 +6,12 @@
     <PackageLicenseUrl>https://raw.githubusercontent.com/FewBox/ActiveDirectory.Core/master/LICENSE</PackageLicenseUrl>
     <PackageProjectUrl>https://fewbox.com</PackageProjectUrl>
     <PackageTags>ActiveDirectory LDAP</PackageTags>
-    <Version>1.0.1</Version>
+    <Version>1.0.2</Version>
     <PackageIconUrl>https://secure.gravatar.com/avatar/ce54e932b36c8d58321cc956410c37ed?s=64&amp;r=g&amp;d=retro</PackageIconUrl>
     <RepositoryUrl>https://github.com/FewBox/ActiveDirectory.Core</RepositoryUrl>
     <Company>FewBox</Company>
     <Authors>FewBox</Authors>
-    <Description>About 7 years history - start from 2010 (https://landpyactivedirectory.codeplex.com/), which will help you to manage Active Directory with out complex filter syntax!
+    <Description>Start from 2010 (https://landpyactivedirectory.codeplex.com/), which will help you to manage Active Directory(LDAP protocol) with out complex filter syntax!
 This library has been trusted by Lenovo, Sony，Tempursealy, BoostSolutions and other corporations.</Description>
     <RepositoryType>Public</RepositoryType>
     <PackageReleaseNotes />
