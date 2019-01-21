@@ -1,0 +1,8 @@
+language: csharp
+mono: none
+dotnet: 2.1.300
+install:
+  - dotnet restore
+script:
+  - dotnet pack -c Release $TRAVIS_BUILD_DIR/FewBox.ActiveDirectory.Core/FewBox.ActiveDirectory.Core.csproj
+  - dotnet nuget push $TRAVIS_BUILD_DIR/FewBox.ActiveDirectory.Core/bin/Release/FewBox.ActiveDirectory.Core.*.nupkg -k $NUGET_KEY -s https://api.nuget.org/v3/index.json
