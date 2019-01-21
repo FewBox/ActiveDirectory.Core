@@ -7,7 +7,7 @@
     <PackageProjectUrl>https://fewbox.com</PackageProjectUrl>
     <PackageTags>ActiveDirectory LDAP</PackageTags>
     <Version>1.0.2</Version>
-    <PackageIconUrl>https://secure.gravatar.com/avatar/ce54e932b36c8d58321cc956410c37ed?s=64&amp;r=g&amp;d=retro</PackageIconUrl>
+    <PackageIconUrl>https://secure.gravatar.com/avatar/ce54e932b36c8d58321cc956410c37ed</PackageIconUrl>
     <RepositoryUrl>https://github.com/FewBox/ActiveDirectory.Core</RepositoryUrl>
     <Company>FewBox</Company>
     <Authors>FewBox</Authors>
