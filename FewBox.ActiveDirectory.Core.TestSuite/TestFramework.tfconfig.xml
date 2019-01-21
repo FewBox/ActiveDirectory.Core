@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TFConfiguration>
+  <Properties>
+    <Property Key="ClientPath" Value="LDAP://116.196.91.120"/>
+    <Property Key="ClientUserName" Value="delegate"/>
+    <Property Key="ClientPassword" Value="1qaz@WSX"/>
+    <Property Key="DomainControllerName" Value="fewbox"/>
+    <Property Key="UserName" Value="Administrator"/>
+  </Properties>
+</TFConfiguration>
