@@ -5,4 +5,5 @@ install:
   - dotnet restore
 script:
   - dotnet pack -c Release $TRAVIS_BUILD_DIR/FewBox.ActiveDirectory.Core/FewBox.ActiveDirectory.Core.csproj
+after_success:
   - dotnet nuget push $TRAVIS_BUILD_DIR/FewBox.ActiveDirectory.Core/bin/Release/FewBox.ActiveDirectory.Core.*.nupkg -k $NUGET_KEY -s https://api.nuget.org/v3/index.json
