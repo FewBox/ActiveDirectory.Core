@@ -1,4 +1,7 @@
-# ActiveDirectory.Core
+## ActiveDirectory.Core
+[![Build Status](https://travis-ci.com/FewBox/ActiveDirectory.Core.svg?branch=master)](https://travis-ci.com/FewBox/ActiveDirectory.Core)
+[![Nuget Status](https://img.shields.io/nuget/v/FewBox.ActiveDirectory.Core.svg)](https://www.nuget.org/packages/FewBox.ActiveDirectory.Core/)
+
 .Net Core Active Directory Lib.
 > Start from 2010 (https://landpyactivedirectory.codeplex.com/), which will help you to manage Active Directory(LDAP protocol) with out complex filter syntax!
 This library has been trusted by Lenovo, Sony，Tempursealy, BoostSolutions and other corporations.
